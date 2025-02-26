@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukulgit123&theme=calm"></img>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukulgit123&theme=calm"></img>
+</p>
 ### Hej Hej!! 👋
 - 🔭 I’m currently focusing on building **platforms** and scaling **Kubernetes** infrastructure at **Volvo Cars**.
 - 🌱 I’m working towards mastering **GoLang** for cloud-native development and further deepening my knowledge of **Terraform** and **Kubernetes** for complex, multi-cloud environments.
