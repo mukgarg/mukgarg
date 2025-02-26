@@ -1,7 +1,7 @@
 <p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukulgit123&theme=nord_bright"></img>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukulgit123&theme=nord_bright"></img>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukulgit123&theme=nord_bright"></img>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukulgit123&theme=nord_bright"></img>
 </p>
 
 ### Hej Hej!! 👋
